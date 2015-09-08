@@ -1,0 +1,19 @@
+{
+  "name": "datastructor",
+  "version": "1.0.1",
+  "description": "datastructor",
+  "main": "arrayAlgorithm.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kumji"
+  },
+  "author": "kumji.p",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.2"
+  }
+}
